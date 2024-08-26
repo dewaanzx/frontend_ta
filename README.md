@@ -76,5 +76,3 @@ npm run prettier
 
 #### Created with ❤️
 ```
-
-Silakan salin dan tempel teks di atas ke dalam file `README.md` untuk dokumentasi frontend aplikasi Anda.
