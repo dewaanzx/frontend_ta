@@ -1,0 +1,28 @@
+<svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="18" height="18" fill="#DFDFDF"/>
+<g id="admin - pinjaman mobil" clip-path="url(#clip0_120_2021)">
+<rect width="1440" height="1118" transform="translate(-558 -192)" fill="white"/>
+<g id="main app">
+<g id="content">
+<rect width="1170" height="1028" transform="translate(-288 -102)" fill="white"/>
+<g id="insight">
+<g id="insight_2">
+<rect x="-248" y="-78" width="300" height="134" rx="24" fill="white"/>
+<rect x="-247.5" y="-77.5" width="299" height="133" rx="23.5" stroke="black" stroke-opacity="0.2"/>
+<g id="Frame 5157">
+<g id="iconamoon:send-light">
+<rect x="-18" y="-18" width="54" height="54" rx="27" fill="#C1E9FF"/>
+<path id="Vector" d="M1.61903 9.0002L1.01293 3.32257C0.839327 1.6977 2.44689 0.504112 3.8668 1.20481L15.8523 7.11323C17.3826 7.86718 17.3826 10.1332 15.8523 10.8872L3.8668 16.7956C2.44689 17.4952 0.839327 16.3027 1.01293 14.6778L1.61903 9.0002ZM1.61903 9.0002H8.64333" stroke="#1A83BA" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_120_2021">
+<rect width="1440" height="1118" fill="white" transform="translate(-558 -192)"/>
+</clipPath>
+</defs>
+</svg>
